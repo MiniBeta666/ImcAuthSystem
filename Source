@@ -2,7 +2,7 @@ userkey={}
 function a(key)
     table.insert(userkey,keyhead..key)
 end
-if getgenv().authverify == then
+if true then
 print("AUTH VERIFY SUCCESS")
 else
 game.Players.LocalPlayer:Kick("Stop Bypass The Key System")
@@ -29,7 +29,7 @@ end
 Github : github.com/MiniBeta666
 Gitlab : SooN
 --]]
-
+function LoadAuth()
 loadstring(getgenv().userlist)()
 
 
@@ -40,3 +40,4 @@ for i,v in pairs(userkey) do
         wait()
   end
 end
+endq
