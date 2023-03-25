@@ -13,7 +13,6 @@ getgenv().userlist = [[
 a("keysystemlibfornoob")
 a("keysystemlibfornoob2")
 ]]
-]]
 ```
 ## Load Script
 ```lua
