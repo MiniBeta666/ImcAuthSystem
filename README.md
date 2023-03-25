@@ -20,6 +20,7 @@ function ls()
 --Your Script Here
 end
 ```
-## Enabled The Libary
+## Enabled The Libary (Put it on the last of script)
 ```lua
+LoadAuth()
 ```
